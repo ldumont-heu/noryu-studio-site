@@ -6,7 +6,7 @@
 
 - Éditeur : Lucas Jean-Bernard Dominique DUMONT, sous le nom Noryu Studio
 - Nom de développeur affiché sur Google Play : Noryu Studio
-- Adresse : 62 Avenue de la Timone, 13010 Marseille, France
+- Adresse : 55 rue Grignan, 13006 Marseille, France
 - Contact pour toute question relative aux données : `noryustudio@gmail.com`
 
 ## 2. Résumé
