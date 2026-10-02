@@ -121,8 +121,8 @@ techniques nécessaires au diagnostic : version de l'application et du système,
 type d'appareil, trace d'exécution et état technique au moment du problème.
 Murder House ajoute seulement l'écran, le mode, le palier, la taille, la version
 du générateur et la graine permettant de reproduire l'affaire. Aucun nom, note,
-texte d'indice, jeton d'achat ou date jouée n'est ajouté. Dans **Profil > Options
-> Confidentialité**, vous pouvez désactiver cette collecte ; les rapports non
+texte d'indice, jeton d'achat ou date jouée n'est ajouté. Dans **Profil > Options > Confidentialité**,
+vous pouvez désactiver cette collecte ; les rapports non
 envoyés sont alors supprimés.
 
 ### Firebase Analytics, uniquement avec accord
@@ -172,7 +172,7 @@ compte Google. Voir la [documentation officielle In-App Review](https://develope
 
 Vous pouvez refuser la publicité personnalisée lorsque ce choix est proposé. Si
 Google exige l'affichage d'options de confidentialité dans votre région, elles
-restent accessibles depuis **Profil > Confidentialité des publicités**. La
+restent accessibles depuis **Profil > Options > Confidentialité des publicités**. La
 [politique de confidentialité de Google](https://policies.google.com/privacy) et
 la page [Comment Google utilise les données provenant de sites ou d'applications
 partenaires](https://policies.google.com/technologies/partner-sites) décrivent
